@@ -1,9 +1,13 @@
 # Hi, I'm Sathwik 👋
 
-I am a passionate B.Sc ChemE student at the University of Toronto, driven by a curiosity for technology and a love for data analysis.
-My journey involves delving into the realms of stock market predictions, data engineering, and quant algorithmic trading. 📈💵</>
+I am a passionate B.Sc ChemE student at the University of Toronto, driven by a curiosity for technology and a love for data analysis. My journey involves delving into the realms of **ML & Data engineering </>**, **Quant Algorithmic Trading Bots** 📈, and **Financial Time Series Analysis** 💵.
 
-![woi-6ix's Stats](https://github-readme-stats.vercel.app/api?username=woi-6ix&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+##
+<div align="center">
+  
+  ![woi-6ix's Stats](https://github-readme-stats.vercel.app/api?username=woi-6ix&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+
+</div>
 
 ## 🚀 About Me
 
@@ -16,7 +20,7 @@ My journey involves delving into the realms of stock market predictions, data en
 -
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,r,scala,sklearn,selenium,swift,tensorflow,vscode,autocad,flask,html,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,r,scala,sklearn,selenium,tensorflow,vscode,flask,html)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -29,7 +33,7 @@ My journey involves delving into the realms of stock market predictions, data en
 
  ## 🏆 Achievements
 
-- 🌟 Completed
+- 🌟 
 
 
 ## 📬 Get in Touch
