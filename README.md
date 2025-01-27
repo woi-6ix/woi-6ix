@@ -7,7 +7,7 @@ My journey involves delving into the realms of stock market predictions, data en
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Bachelors's in Chemical Engineering, focus in AI, at University of Toronto.
+- 🔭 I'm currently pursuing my Bachelors's in Chemical Engineering, focus in Business and AI, at University of Toronto.
 - 📝 A
 - 🌐 P
 - ✍️ C
@@ -33,7 +33,6 @@ My journey involves delving into the realms of stock market predictions, data en
 
 
 ## 📬 Get in Touch
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/satya-sathwik-juttada-6ix/) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/sathwikj.8) [![🔗]](https://jxs-personal.carrd.co/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/satya-sathwik-juttada-6ix/) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/sathwikj.8) [![Network]](https://jxs-personal.carrd.co/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-:link:
