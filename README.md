@@ -16,7 +16,7 @@ My journey involves delving into the realms of stock market predictions, data en
 -
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=pycharm,py,pytorch,r,scala,sklearn,selenium,swift,tensorflow,vercel,vscode,autocad,flask,github,html,latex,matlab,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,r,scala,sklearn,selenium,swift,tensorflow,vscode,autocad,flask,html,mysql)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -34,7 +34,10 @@ My journey involves delving into the realms of stock market predictions, data en
 
 ## 📬 Get in Touch
 
-- Connect with me on [Instagram](https://instagram.com/sathwikj.8)
+- Connect with me on [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/satya-sathwik-juttada-6ix/)
+
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/satya-sathwik-juttada-6ix/)
+- (https://instagram.com/sathwikj.8)
 - Email any inquiries to sathwik1215@gmail.com
 - Read more of my projects on [JXS Personal Site](https://jxs-personal.carrd.co/)
 
