@@ -2,7 +2,7 @@
 
 I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![<woi-6ix>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<woi-6ix>'s Stats](https://github-readme-stats.vercel.app/api?username=<woi-6ix>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -12,11 +12,10 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 - ✍️ C
 
 ## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
-
+-
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=autocad,azure,flask,github,html,latex,matlab,mysql,pycharm,py,pytorch,r,scala,sklearn,selenium,swift,tensorflow,vercel,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pycharm,py,pytorch,r,scala,sklearn,selenium,swift,tensorflow,vercel,vscode,autocad,flask,github,html,latex,matlab,mysql)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
