@@ -33,12 +33,6 @@ My journey involves delving into the realms of stock market predictions, data en
 
 
 ## 📬 Get in Touch
-
-- Connect with me on [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/satya-sathwik-juttada-6ix/)
-
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/satya-sathwik-juttada-6ix/)
-- (https://instagram.com/sathwikj.8)
-- Email any inquiries to sathwik1215@gmail.com
-- Read more of my projects on [JXS Personal Site](https://jxs-personal.carrd.co/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/satya-sathwik-juttada-6ix/) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/sathwikj.8) [![🔗]](https://jxs-personal.carrd.co/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
