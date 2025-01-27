@@ -22,15 +22,6 @@ I am a passionate B.Sc ChemE student at the University of Toronto, driven by a c
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,r,scala,sklearn,selenium,tensorflow,vscode,flask,html)](https://skillicons.dev)
 
-## 🌱 Currently Exploring
-
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
-
  ## 🏆 Achievements
 
 - 🌟 
