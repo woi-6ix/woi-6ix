@@ -16,18 +16,12 @@ I am a passionate B.Sc ChemE student at the University of Toronto, driven by a c
 - 🌐 P
 - ✍️ C
 
-## My Articles
--
-
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,r,scala,sklearn,selenium,tensorflow,vscode,flask,html)](https://skillicons.dev)
 
  ## 🏆 Achievements
-
 - 🌟 
 
-
 ## 📬 Get in Touch
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/satya-sathwik-juttada-6ix/) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/sathwikj.8) [![Network]](https://jxs-personal.carrd.co/)
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+Visit my personal [portfolio](https://jxs-personal.carrd.co/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/satya-sathwik-juttada-6ix/) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/sathwikj.8)
