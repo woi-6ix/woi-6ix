@@ -5,9 +5,7 @@ I am a passionate B.Sc ChemE student at the University of Toronto, driven by a c
 ##
 <div align="center">
   
-  ![woi-6ix's Stats](https://github-readme-stats.vercel.app/api?username=woi-6ix&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
-
-  ![woi-6ix's Stats](https://github-readme-stats.vercel.app/api?username=woi-6ix&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![woi-6ix's Stats](https://github-readme-stats.vercel.app/api?username=woi-6ix&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
 </div>
 
