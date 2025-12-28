@@ -1,12 +1,5 @@
-![Header](./your-header-image-name.png)
-
-
-
-
-# Hi, I'm Sathwik 👋
-
-
-
+![Header](./JXS_github-header-banner.png)
+#
 I am a passionate B.Sc ChemE student at the University of Toronto, driven by a curiosity for technology and a love for data analysis. My journey involves delving into the realms of **ML & Data engineering </>**, **Quant Algorithmic Trading Bots** 📈, and **Financial Time Series Analysis** 💵.
 
 ##
@@ -41,9 +34,6 @@ Visit my personal [portfolio](https://jxs-personal.carrd.co/)
 ![](https://github-readme-stats.vercel.app/api?username=woi-6ix&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=woi-6ix&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=woi-6ix&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=woi-6ix&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
