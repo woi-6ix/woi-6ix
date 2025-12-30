@@ -32,13 +32,14 @@
 </div>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=woi-6ix&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 📬 Get in Touch
-
-[![htmx](https://skillicons.dev/icons?i=htmx)](https://jxs-personal.carrd.co/)[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/satya-sathwik-juttada-6ix/) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/sathwikj.8)
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=woi-6ix&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 📬 Get in Touch
+
+[![htmx](https://skillicons.dev/icons?i=htmx)](https://jxs-personal.carrd.co/)[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/satya-sathwik-juttada-6ix/) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/sathwikj.8)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
