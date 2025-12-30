@@ -11,7 +11,7 @@ I am a passionate B.Sc ChemE student at the University of Toronto, driven by a c
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Bachelors's in Chemical Engineering, focus in Business and AI, at University of Toronto.
+- 🔭 I'm currently pursuing my Bachelor's in Chemical Engineering, focus in Business and AI, at the University of Toronto.
 - 📝 A
 - 🌐 P
 - ✍️ C
