@@ -36,7 +36,7 @@
 
 ### 📬 Get in Touch
 
-Visit my personal portfolio [![htmx](https://skillicons.dev/icons?i=htmx)](https://jxs-personal.carrd.co/)[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/satya-sathwik-juttada-6ix/) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/sathwikj.8)
+[![htmx](https://skillicons.dev/icons?i=htmx)](https://jxs-personal.carrd.co/)[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/satya-sathwik-juttada-6ix/) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/sathwikj.8)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
