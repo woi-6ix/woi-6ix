@@ -33,6 +33,8 @@
 
 ### 🔝 Top Contributed Repo
 
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=woi-6ix)](https://git.io/streak-stats)-->
+
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://github-contributor-stats.vercel.app/api?username=woi-6ix&limit=5&theme=dark&combine_all_yearly_contributions=true" />
   <img src="JXS_github-gif.gif" height="260" />
