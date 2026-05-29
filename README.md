@@ -31,15 +31,15 @@
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
 </div>
 
-### 🔝 Top Contributed Repo
+### 📊 GitHub Stats
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
         <img 
-          src="https://github-contributor-stats.vercel.app/api?username=woi-6ix&limit=5&theme=dark&combine_all_yearly_contributions=true" 
-          alt="Top contributed repositories" 
+          src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=woi-6ix&amp;theme=tokyonight&amp;show_icons=true" 
+          alt="GitHub Stats" 
         />
       </td>
       <td align="center">
