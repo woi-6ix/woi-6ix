@@ -1,4 +1,4 @@
-![Header](./JXS_github-header-banner.png)
+![Header](./JXS_github-header-banner_2.png)
 
 ## About Me
 
