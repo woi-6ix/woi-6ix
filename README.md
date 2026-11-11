@@ -7,7 +7,7 @@
 - 🌐 Actively building **algorithmic trading bots 📈**, experimenting with **financial time‑series modeling  💵**, and diving deeper into the world of **ML systems and automation**.  
 - I enjoy documenting my learning journey, sharing insights, and working on innovative ideas that blend chemical and physics engineering fundamentals with finance using modern computational tools and algorithms.
 
-- [View My Resume](https://drive.google.com/file/d/1219l5D2PJRPPlNZl26qrwtyFCD5iDzja/view)
+- [View My Resume](https://drive.google.com/file/d/1ES-0zO_gwONWTIZUYMIp2L1gCYDN8Qki/view?usp=sharing)
 
 ## 💻 Tech Stack
 
