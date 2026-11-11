@@ -5,7 +5,9 @@
 - 🔭 Master's candidate currently developing Options Trading ML algorithms. BASc Chemical Engineering w/ minor in Business, & focus on AI at the University of Toronto.  
 - 📝 Passionate about leveraging data-driven insights, I explore the intersection of engineering, technology, and finance through projects in **Machine Learning </>**, **Data Engineering**, and **Quantitative Research**.  
 - 🌐 Actively building **algorithmic trading bots 📈**, experimenting with **financial time‑series modeling  💵**, and diving deeper into the world of **ML systems and automation**.  
-- I enjoy documenting my learning journey, sharing insights, and working on innovative ideas that blend chemical engineering fundamentals with modern computational tools.
+- I enjoy documenting my learning journey, sharing insights, and working on innovative ideas that blend chemical and physics engineering fundamentals with finance using modern computational tools and algorithms.
+
+- [View My Resume](https://drive.google.com/file/d/1219l5D2PJRPPlNZl26qrwtyFCD5iDzja/view)
 
 ## 💻 Tech Stack
 
